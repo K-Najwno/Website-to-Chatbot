@@ -12,8 +12,6 @@ Code is up, ⭐ (Star) the repo to receive updates
 
 Replit and streamlit version coming soon
 
-Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) on twitter for updates
-
 ### How to run ?
 
 1. Create a virtual environment in python https://docs.python.org/3/library/venv.html
